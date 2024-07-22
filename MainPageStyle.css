@@ -6,7 +6,7 @@ body {
       .content {
         max-width: 600px;
         margin: auto;
-        background: #260b0c;
+        background: #0a1b21;
         padding: 10px;
       }
 td,
@@ -19,7 +19,7 @@ th {
       a:link,
       a:visited {
         background-color: #ff5900;
-        color: #260b0c;
+        color: #0a1b21;
         text-align: center;
         text-decoration: none;
         display: inline-block;
@@ -27,26 +27,26 @@ th {
 
       a:hover,
       a:active {
-        background-color: #421003;
+        background-color: #063557;
       }
 
 
  table,
       th,
       td {
-        border: 6px solid #260b0c;
+        border: 6px solid #0a1b21;
         border-collapse: collapse;
       }
 
       
       td {
-        background-color: #421003;
+        background-color: #063557;
       }
 b {
   color: #ebbf91;
 }
  h1 {
-   color: #ff5729;
+   color: #28abfc;
         text-align: center;
       }
   h5 {
@@ -59,7 +59,7 @@ b {
       }
 
 h6 {
-  color: #ff5729;
+  color: #28abfc;
         text-align: center;
       }
 h7 {
