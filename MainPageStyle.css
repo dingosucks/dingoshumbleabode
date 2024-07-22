@@ -35,7 +35,7 @@ th {
 
       a:hover,
       a:active {
-        background-color: #074c7d;
+        background-color: #e83ca3;
       }
 
 
@@ -63,23 +63,10 @@ h6 {
         text-align: center;
       }
 h7 {
-  color: #ffd738;
+  color: #e83ca3;
 }
 
-h8 {
-  color: #e6462e;
-}
 
-h9 {
-  color: #8ce841;
-}
-
-h10 {
-  color: #1883db;
-}
-h11 {
-  color: black;
-}
 audio {
     padding: 0px 60px 0px 60px;
     width: 80%;
