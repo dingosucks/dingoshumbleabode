@@ -1,24 +1,24 @@
 body {
-      background-image: url('https://cdn.glitch.global/8cc87ae8-2401-45b0-98ad-907c24699c04/XP?v=1721017442933');
+      background-image: url('https://cdn.glitch.global/8cc87ae8-2401-45b0-98ad-907c24699c04/image_2024-07-27_231115898.png?v=1722111133393');
       background-repeat: no-repeat;
       background-attachment: fixed;  
       background-size: cover;
       font-family: "Courier New", monospace;
 }
  h1 {
-   color: #e83ca3;
+   color: #078a8a;
         text-align: center;
       }
   h5 {
     font-weight: bold;
-    color: #e83ca3;
+    color: #70ffff;
 
   }
       .content {
          opacity: 0.9;
         max-width: 600px;
         margin: auto;
-        background: #06273b;
+        background: #2956a3;
         padding: 10px;
       }
 td,
@@ -31,8 +31,8 @@ th {
 }
       a:link,
       a:visited {
-        background-color: #00b7ff;
-        color: #06273b;
+        background-color: #078a8a;
+        color: #2956a3;
         text-align: center;
         text-decoration: none;
         display: inline-block;
@@ -40,37 +40,37 @@ th {
 
       a:hover,
       a:active {
-        background-color: #e83ca3;
+        background-color: #70ffff;
       }
 
 
  table,
       th,
       td {
-        border: 6px solid #06273b;
+        border: 6px solid #2956a3;
         border-collapse: collapse;
       }
 
       
       td {
-        background-color: #063557;
+        background-color: #4e6907;
       }
 b {
-  color: #8ee0e6;
+  color: #266fed;
 }
       dt {
-        color: #e83ca3;
+        color: #19d1d1;
         
       }
 
 h6 {
-  color: #e83ca3;
+  color: #19d1d1;
         text-align: center;
       }
 h7 {
   text-align: center;
 
-  color: #e83ca3;
+  color: #19d1d1;
   font-weight: bold;
 }
 
@@ -81,5 +81,5 @@ audio {
     height: 25px;
 }
 img {
-  border: 5px solid #084c7c;
+  border: 5px solid #2956a3;
 }
