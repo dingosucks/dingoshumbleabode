@@ -6,7 +6,7 @@ body {
       font-family: "Courier New", monospace;
 }
  h1 {
-   color: #078a8a;
+   color: #c4ff29;
         text-align: center;
       }
   h5 {
@@ -18,7 +18,7 @@ body {
          opacity: 0.9;
         max-width: 600px;
         margin: auto;
-        background: #2956a3;
+        background: #0e2d63;
         padding: 10px;
       }
 td,
@@ -31,8 +31,8 @@ th {
 }
       a:link,
       a:visited {
-        background-color: #078a8a;
-        color: #2956a3;
+        background-color: #c4ff29;
+        color: #0e2d63;
         text-align: center;
         text-decoration: none;
         display: inline-block;
@@ -40,37 +40,37 @@ th {
 
       a:hover,
       a:active {
-        background-color: #70ffff;
+        background-color: #94c90a;
       }
 
 
  table,
       th,
       td {
-        border: 6px solid #2956a3;
+        border: 6px solid #0e2d63;
         border-collapse: collapse;
       }
 
       
       td {
-        background-color: #4e6907;
+        background-color: #2956a3;
       }
 b {
-  color: #266fed;
+  color: #c4ff29;
 }
       dt {
-        color: #19d1d1;
+        color: #94c90a;
         
       }
 
 h6 {
-  color: #19d1d1;
+  color: #61820a;
         text-align: center;
       }
 h7 {
   text-align: center;
 
-  color: #19d1d1;
+  color: #c4ff29;
   font-weight: bold;
 }
 
@@ -81,5 +81,5 @@ audio {
     height: 25px;
 }
 img {
-  border: 5px solid #2956a3;
+  border: 5px solid #0e2d63;
 }
