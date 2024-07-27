@@ -1,5 +1,8 @@
 body {
-      background-color: #074c7d;
+      background-image: url('https://cdn.glitch.global/8cc87ae8-2401-45b0-98ad-907c24699c04/XP?v=1721017442933');
+      background-repeat: no-repeat;
+      background-attachment: fixed;  
+      background-size: cover;
       font-family: "Courier New", monospace;
 }
  h1 {
@@ -12,6 +15,7 @@ body {
 
   }
       .content {
+         opacity: 0.9;
         max-width: 600px;
         margin: auto;
         background: #06273b;
@@ -19,6 +23,7 @@ body {
       }
 td,
 th {
+         opacity: 2;
         border: 1px solid #000000;
         text-align: left;
         padding: 8px;
