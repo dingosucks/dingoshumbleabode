@@ -1,29 +1,19 @@
 body {
-      background-image: url('https://cdn.glitch.global/8cc87ae8-2401-45b0-98ad-907c24699c04/image_2024-07-27_231115898.png?v=1722111133393');
+      background-image: url(https://cdn.glitch.global/8cc87ae8-2401-45b0-98ad-907c24699c04/image_2024-10-26_204926392.png?v=1729964967715);
       background-repeat: no-repeat;
-      background-attachment: fixed;  
-      background-size: cover;
-      font-family: "Courier New", monospace;
+      background-attachment: fixed;
+      background-size: 700px 100%;  
+  font-family: "Courier New", monospace;
 }
- h1 {
-   color: #c4ff29;
-        text-align: center;
-      }
-  h5 {
-    font-weight: bold;
-    color: #70ffff;
 
-  }
       .content {
-         opacity: 0.9;
-        max-width: 600px;
+        max-width: 960px;
         margin: auto;
-        background: #0e2d63;
+        background: #260b1d;
         padding: 10px;
       }
 td,
 th {
-         opacity: 2;
         border: 1px solid #000000;
         text-align: left;
         padding: 8px;
@@ -31,8 +21,8 @@ th {
 }
       a:link,
       a:visited {
-        background-color: #c4ff29;
-        color: #0e2d63;
+        background-color: #ff0095;
+        color: #260b1d;
         text-align: center;
         text-decoration: none;
         display: inline-block;
@@ -40,46 +30,60 @@ th {
 
       a:hover,
       a:active {
-        background-color: #94c90a;
+        background-color: #42031f;
       }
 
 
  table,
       th,
       td {
-        border: 6px solid #0e2d63;
+        border: 6px solid #260b1d;
         border-collapse: collapse;
       }
 
       
       td {
-        background-color: #2956a3;
+        background-color: #42031f;
       }
 b {
-  color: #c4ff29;
+  color: #eb91c4;
 }
-      dt {
-        color: #94c90a;
-        
+ h1 {
+   color: #ff2994;
+        text-align: center;
       }
-
+h5,
+      dt {
+        color: #1bb49d;
+        font-weight: bold;
+      }
 h6 {
-  color: #61820a;
+  color: #ff2994;
         text-align: center;
       }
 h7 {
-  text-align: center;
-
-  color: #c4ff29;
-  font-weight: bold;
+  color: #ffd738;
 }
 
+h8 {
+  color: #e6462e;
+}
 
+h9 {
+  color: #8ce841;
+}
+
+h10 {
+  color: #1883db;
+}
+h11 {
+  color: black;
+}
 audio {
     padding: 0px 60px 0px 60px;
     width: 80%;
     height: 25px;
 }
 img {
-  border: 5px solid #0e2d63;
+  border: 5px solid #260b0c;
 }
