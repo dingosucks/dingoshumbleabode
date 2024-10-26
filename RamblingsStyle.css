@@ -21,7 +21,7 @@ th {
 }
       a:link,
       a:visited {
-        background-color: #ff0095;
+        background-color: #c2390c;
         color: #d1c2ae;
         text-align: center;
         text-decoration: none;
@@ -66,15 +66,15 @@ h7 {
 }
 
 h8 {
-  color: #e6462e;
+  color: #c2390c;
 }
 
 h9 {
-  color: #8ce841;
+  color: #c2390c;
 }
 
 h10 {
-  color: #1883db;
+  color: #c2390c;
 }
 h11 {
   color: black;
@@ -85,5 +85,5 @@ audio {
     height: 25px;
 }
 img {
-  border: 5px solid #260b0c;
+  border: 5px solid #c2390c;
 }
