@@ -1,15 +1,15 @@
 body {
-      background-image: url(https://cdn.glitch.global/8cc87ae8-2401-45b0-98ad-907c24699c04/image_2024-10-26_204926392.png?v=1729964967715);
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-      background-size: 700px 100%;  
+      background-image: url(https://img.freepik.com/free-vector/blank-white-notepaper-design_53876-118304.jpg?t=st=1729965784~exp=1729969384~hmac=9c7c0d6e15dcea61e8753520d796abbe90cac477dd333e73114d92bf8b56e53c&w=740);
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
   font-family: "Courier New", monospace;
 }
 
       .content {
         max-width: 960px;
         margin: auto;
-        background: #260b1d;
+        background: #d1c2ae;
         padding: 10px;
       }
 td,
@@ -22,7 +22,7 @@ th {
       a:link,
       a:visited {
         background-color: #ff0095;
-        color: #260b1d;
+        color: #d1c2ae;
         text-align: center;
         text-decoration: none;
         display: inline-block;
@@ -30,39 +30,39 @@ th {
 
       a:hover,
       a:active {
-        background-color: #42031f;
+        background-color: #ebe5d5;
       }
 
 
  table,
       th,
       td {
-        border: 6px solid #260b1d;
+        border: 6px solid #d1c2ae;
         border-collapse: collapse;
       }
 
       
       td {
-        background-color: #42031f;
+        background-color: #ebe5d5;
       }
 b {
-  color: #eb91c4;
+  color: #c2390c;
 }
  h1 {
-   color: #ff2994;
+   color: #c2390c;
         text-align: center;
       }
 h5,
       dt {
-        color: #1bb49d;
+        color: #c2390c;
         font-weight: bold;
       }
 h6 {
-  color: #ff2994;
+  color: #c2390c;
         text-align: center;
       }
 h7 {
-  color: #ffd738;
+  color: #c2390c;
 }
 
 h8 {
