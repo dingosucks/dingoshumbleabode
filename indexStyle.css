@@ -84,3 +84,8 @@ audio {
 img {
   border: 5px solid #0e2d63;
 }
+marquee {
+  background-color: #c4ff29;
+  font-weight: bold;
+  color: #0e2d63;
+}
