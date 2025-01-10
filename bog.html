@@ -23,7 +23,21 @@ b {text-align: center;}
      style="width: 30%" class="center"> <br> <br>
 <b> Tuesday</b>
         <b id="LeaveBog"></b>
-    
+    <script>
+    //to leave leave bog
+const weekday = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+
+const d = new Date();
+let day = weekday[d.getDay()];
+console.log(day)
+
+if (day === "Tuesday") {
+  document.getElementById("LeaveBog").innerHTML =  <h6><a href="index.html">Leave bog?</a></h6> ;
+}
+else {
+  document.getElementById("LeaveBog").innerHTML = "not friday";
+}
+    </script>
 
     
     
