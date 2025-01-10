@@ -4,7 +4,7 @@ body {
       background-attachment: fixed;  
       background-size: cover;
       font-family: "Courier New", monospace;
-          opacity: 0.80;
+      opacity: 0.85;
 }
  h1 {
    color: #8BA073;
@@ -50,6 +50,7 @@ th {
       td {
         border: 6px solid #030407;
         border-collapse: collapse;
+        opacity: 1;
       }
 
       
