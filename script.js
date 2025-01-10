@@ -39,5 +39,12 @@ var pics = [
   "https://cdn.glitch.global/8cc87ae8-2401-45b0-98ad-907c24699c04/6c9d8593-d122-49b7-b9ad-c3c279e4ba93.jfif?v=1736538738945",
 ]
 
-let count = 0; 
+var imgState = 0;
+
+var imgTag = document.getElementById("coolimg");
+
+imgTag.addEventListener("click", function (event) {
+  imgState = ++imgState % images.length;
+  event.target.src = images[imgState];
+});
 
