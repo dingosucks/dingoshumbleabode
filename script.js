@@ -41,7 +41,7 @@ var pics = [
 
 var imgState = 0;
 
-var imgTag = document.getElementById("coolimg");
+var imgTag = document.getElementById("photo");
 
 imgTag.addEventListener("click", function (event) {
   imgState = ++imgState % pics.length;
