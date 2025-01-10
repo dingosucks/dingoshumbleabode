@@ -1,12 +1,13 @@
 body {
-      background-image: url('https://cdn.glitch.global/8cc87ae8-2401-45b0-98ad-907c24699c04/pluh.png?v=1731525606634');
+      background-image: url('https://i.pinimg.com/736x/87/d2/8f/87d28f3b410a57ece09efa9598c8b4ae.jpg');
       background-repeat: no-repeat;
       background-attachment: fixed;  
       background-size: cover;
       font-family: "Courier New", monospace;
+          opacity: 0.60;
 }
  h1 {
-   color: #FFA72E;
+   color: #8BA073;
         text-align: center;
       }
   h5 {
@@ -18,21 +19,21 @@ body {
          opacity: 0.9;
         max-width: 600px;
         margin: auto;
-        background: #691216;
+        background: #030407;
         padding: 10px;
       }
 td,
 th {
          opacity: 2;
-        border: 1px solid #000000;
+        border: 1px solid #030407;
         text-align: left;
         padding: 8px;
         vertical-align: top;
 }
       a:link,
       a:visited {
-        background-color: #FFA72E;
-        color: #691216;
+        background-color: #8BA073;
+        color: #030407;
         text-align: center;
         text-decoration: none;
         display: inline-block;
@@ -40,37 +41,37 @@ th {
 
       a:hover,
       a:active {
-        background-color: #FFA34D;
+        background-color: #8BA073;
       }
 
 
  table,
       th,
       td {
-        border: 6px solid #691216;
+        border: 6px solid #030407;
         border-collapse: collapse;
       }
 
       
       td {
-        background-color: #A64C14;
+        background-color: #3C5339;
       }
 b {
-  color: #FFA72E;
+  color: #8BA073;
 }
       dt {
-        color: #FFA34D;
+        color: #8BA073;
         
       }
 
 h6 {
-  color: #A64C14;
+  color: #8BA073;
         text-align: center;
       }
 h7 {
   text-align: center;
 
-  color: #FFA72E;
+  color: #8BA073;
   font-weight: bold;
 }
 
@@ -82,12 +83,12 @@ audio {
     height: 25px;
 }
 img {
-  border: 5px solid #691216;
+  border: 5px solid #030407;
 }
 marquee {
-  background-color: #FFA72E;
+  background-color: #8BA073;
   font-weight: bold;
-  color: #691216;
+  color: #030407;
 }
 
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
@@ -124,13 +125,13 @@ marquee {
 
 /* Style the front side (fallback if image is missing) */
 .flip-card-front {
-  background-color: #FFA34D;
+  background-color: #8BA073;
   color: black;
 }
 
 /* Style the back side */
 .flip-card-back {
-  background-color: #FFA34D;
+  background-color: #8BA073;
   color: white;
   transform: rotateY(180deg);
 }
