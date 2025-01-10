@@ -2,7 +2,7 @@ body {
       background-image: url('https://i.pinimg.com/736x/87/d2/8f/87d28f3b410a57ece09efa9598c8b4ae.jpg');
       background-repeat: no-repeat;
       background-attachment: fixed;  
-      background-size: cover;
+      background-size: 100% 100%;
       font-family: "Courier New", monospace;
       opacity: 0.85;
 }
