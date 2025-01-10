@@ -26,3 +26,19 @@ var x = setInterval(function() {
     document.getElementById("demo").innerHTML = "broken :-(";
   }
 }, 1000);
+
+
+
+//to leave leave bog
+const weekday = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+
+const d = new Date();
+let day = weekday[d.getDay()];
+console.log(day)
+
+if (day === "Tuesday") {
+  document.getElementById("LeaveBog").innerHTML =  <h6><a href="index.html">Leave bog?</a></h6> ;
+}
+else {
+  document.getElementById("LeaveBog").innerHTML = "not friday";
+}
