@@ -6,7 +6,7 @@ body {
       font-family: "Courier New", monospace;
 }
  h1 {
-   color: #c4ff29;
+   color: #FFA72E;
         text-align: center;
       }
   h5 {
@@ -18,7 +18,7 @@ body {
          opacity: 0.9;
         max-width: 600px;
         margin: auto;
-        background: #0e2d63;
+        background: #691216;
         padding: 10px;
       }
 td,
@@ -31,8 +31,8 @@ th {
 }
       a:link,
       a:visited {
-        background-color: #c4ff29;
-        color: #0e2d63;
+        background-color: #FFA72E;
+        color: #691216;
         text-align: center;
         text-decoration: none;
         display: inline-block;
@@ -40,37 +40,37 @@ th {
 
       a:hover,
       a:active {
-        background-color: #94c90a;
+        background-color: #FFA34D;
       }
 
 
  table,
       th,
       td {
-        border: 6px solid #0e2d63;
+        border: 6px solid #691216;
         border-collapse: collapse;
       }
 
       
       td {
-        background-color: #2956a3;
+        background-color: #A64C14;
       }
 b {
-  color: #c4ff29;
+  color: #FFA72E;
 }
       dt {
-        color: #94c90a;
+        color: #FFA34D;
         
       }
 
 h6 {
-  color: #61820a;
+  color: #A64C14;
         text-align: center;
       }
 h7 {
   text-align: center;
 
-  color: #c4ff29;
+  color: #FFA72E;
   font-weight: bold;
 }
 
@@ -82,12 +82,12 @@ audio {
     height: 25px;
 }
 img {
-  border: 5px solid #0e2d63;
+  border: 5px solid #691216;
 }
 marquee {
-  background-color: #c4ff29;
+  background-color: #FFA72E;
   font-weight: bold;
-  color: #0e2d63;
+  color: #691216;
 }
 
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
@@ -124,13 +124,13 @@ marquee {
 
 /* Style the front side (fallback if image is missing) */
 .flip-card-front {
-  background-color: #94c90a;
+  background-color: #FFA34D;
   color: black;
 }
 
 /* Style the back side */
 .flip-card-back {
-  background-color: #94c90a;
+  background-color: #FFA34D;
   color: white;
   transform: rotateY(180deg);
 }
